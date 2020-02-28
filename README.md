@@ -1,8 +1,9 @@
 # Marklist
-This Marklist is coded using openpyxl package in python3.
 
-It will ask for the total subjects and total student as a user data.
+The scripting is done with the *PYTHON* language.
 
-Automatically enter the mark above or equal to pass mark for the each subject and calculate the total sum of the subject's mark for each person.
+The main package used to work with excel sheet is *Openpyxl*.
 
-Display the Total.
+It will ask for the *total subjects* and *total student as a user data.
+
+The marks will automatically generate and get filled in each subject.The total will be calculated and filled in the last.
